@@ -1,0 +1,4 @@
+interface:
+  display_name: "Visual Polish Loop"
+  short_description: "Polish web interfaces with bounded before-and-after visual evidence"
+  default_prompt: "Use $visual-polish-loop to polish this interface with before-and-after browser evidence."
